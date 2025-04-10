@@ -1,0 +1,6 @@
+longitude,latitude,housing_median_age,total_rooms,total_bedrooms,population,households,median_income,ocean_proximity,median_house_value
+1 = NEAR BAY
+2 = NEAR OCEAN
+3 = <1H OCEAN
+4 = INLAND
+5 = ISLAND
